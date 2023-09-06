@@ -1,0 +1,8 @@
+settings:
+  save-delay: -1
+  convert-automatically: false
+  convert-type:
+    list-by-name: true
+    list-by-ip: true
+  track-history-limit: 20
+  display-login-message: false

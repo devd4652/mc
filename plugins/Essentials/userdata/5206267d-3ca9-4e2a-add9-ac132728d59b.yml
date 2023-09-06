@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1693619043062
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1693619541550
+  login: 1693618690664
+money: '0'
+last-account-name: blockstooin
+lastlocation:
+  world: 72ee0a36-28fc-40c8-a038-6963e88aa0e2
+  world-name: world
+  x: -27.06172032250001
+  y: 63.0
+  z: 162.8368144530163
+  yaw: 116.85077667236328
+  pitch: 7.799673080444336
+logoutlocation:
+  world: 72ee0a36-28fc-40c8-a038-6963e88aa0e2
+  world-name: world
+  x: -1.3066256633322566
+  y: 76.40760190616462
+  z: 144.07132433929502
+  yaw: 93.60020446777344
+  pitch: 82.7999267578125
